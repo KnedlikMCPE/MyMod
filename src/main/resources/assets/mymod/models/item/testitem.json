@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "texture": "mymod:item/wooden_pickaxe"
+  }
+}
